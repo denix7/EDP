@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=arbolBB()
+comment1.params=valorInsertar
+comment1.target=void\ insertarNodo(int)
+comment2.params=
+comment2.target=void\ recorridoPreorden()
+comment3.params=nodo
+comment3.target=void\ ayudantePreorden(NodoArbol)
+comment4.params=
+comment4.target=void\ recorridoInorden()
+comment5.params=nodo
+comment5.target=void\ ayudanteInorden(NodoArbol)
+comment6.params=
+comment6.target=void\ recorridoPostorden()
+comment7.params=nodo
+comment7.target=void\ ayudantePostorden(NodoArbol)
+numComments=8

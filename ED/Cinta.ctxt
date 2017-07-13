@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cinta()
+comment1.params=
+comment1.target=int\ getTiempoD()
+comment2.params=
+comment2.target=java.lang.String\ getPistas()
+comment3.params=nuevoD
+comment3.target=void\ setTiempoD(int)
+comment4.params=pistas
+comment4.target=void\ setPistas(java.lang.String)
+comment5.params=
+comment5.target=int\ getIndiceUP()
+comment6.params=indiceUP
+comment6.target=void\ setIndiceUP(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9

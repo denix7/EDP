@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numeros\ capMax
+comment0.target=void\ cajaNatural(int[],\ int)
+comment1.params=arreglo\ posicion\ mirar
+comment1.target=int\ cajaNatural(int[],\ int,\ int)
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaDE()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment10.params=posicion\ x
+comment10.target=void\ insertaEnLaPos(int,\ java.lang.Object)
+comment2.params=x
+comment2.target=void\ insertarFinal(java.lang.Object)
+comment3.params=x
+comment3.target=void\ insertarInicio(java.lang.Object)
+comment4.params=
+comment4.target=void\ mostrarLista()
+comment5.params=
+comment5.target=int\ longitudLista()
+comment6.params=x
+comment6.target=void\ buscarDato(java.lang.Object)
+comment7.params=x
+comment7.target=void\ eliminarDato(java.lang.Object)
+comment8.params=pos\ x
+comment8.target=void\ reemplazar(int,\ java.lang.Object)
+comment9.params=posicion
+comment9.target=void\ eliminarDatoPos(int)
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pila()
+comment1.params=dato
+comment1.target=void\ push(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment3.params=
+comment3.target=java.lang.Object\ tope()
+comment4.params=
+comment4.target=boolean\ vacio()
+comment4.text=private\ Pila<T>\ base;\n\ \ \ \ private\ T\ tope;\n\ \ \ \ private\ int\ size;\n\ \ \ \ public\ Pila(){\n\ \ \ \ \ \ \ \ tope\ \=\ null;\n\ \ \ \ \ \ \ \ base\ \=\ null;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ Pila(T\ dato){\n\ \ \ \ \ \ \ \ tope\ \=\ dato;\n\ \ \ \ \ \ \ \ base\ \=\ null;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ T\ tope(){\n\ \ \ \ \ \ \ \ return\ tope;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ T\ push(T\ dato){\n\ \ \ \ \ \ \ \ T\ res\ \=\ dato;\n\ \ \ \ \ \ \ \ if(vacio())\ tope\ \=\ dato;\n\ \ \ \ \ \ \ \ else{\n\ \ \ \ \ \ \ \ \ \ \ \ Pila<T>\ base\ \=\ new\ Pila<T>(tope);\n\ \ \ \ \ \ \ \ \ \ \ \ base.base\ \=\ this.base;\n\ \ \ \ \ \ \ \ \ \ \ \ tope\ \=\ dato;\n\ \ \ \ \ \ \ \ \ \ \ \ this.base\ \=\ base;\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ res;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ public\ T\ pop(){\n\ \ \ \ \ \ \ \ T\ res\ \=\ null;\n\ \ \ \ \ \ \ \ if(\!vacio()){\n\ \ \ \ \ \ \ \ \ \ \ \ res\ \=\ tope;\n\ \ \ \ \ \ \ \ \ \ \ \ if(base\ \!\=\ null){\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ tope\ \=\ base.tope;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ base\ \=\ base.base;\n\ \ \ \ \ \ \ \ \ \ \ \ }else\ tope\ \=\ null;\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ res;\n}
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

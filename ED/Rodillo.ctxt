@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=S\ pasos
+comment0.target=Rodillo(int[],\ int)
+comment1.params=ind\ val
+comment1.target=Rodillo\ generarRodillo(int,\ int)
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=int\ getPasos()
+comment4.params=o
+comment4.target=int\ compareTo(Rodillo)
+numComments=5

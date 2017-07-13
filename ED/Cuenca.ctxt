@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombreCuenca
+comment0.target=Cuenca(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ nombreCuenca()
+comment2.params=p
+comment2.target=void\ agregarPueblo(Pueblo)
+comment3.params=anterior\ nuevo
+comment3.target=void\ agregarPueblo(Pueblo,\ Pueblo)
+comment4.params=X
+comment4.target=ed.edl.ListaSE\ getPueblosAVisitar(int)
+comment5.params=resPar\ mapa\ X
+comment5.target=ed.edl.ListaSE\ buscarLMPV(ed.edl.ListaSE,\ ed.ednl.ArbolBin,\ int)
+numComments=6

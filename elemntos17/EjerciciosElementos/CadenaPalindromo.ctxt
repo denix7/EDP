@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=cad
+comment0.target=boolean\ pal(java.lang.String)
+comment1.params=cad\ n
+comment1.target=boolean\ pal(java.lang.String,\ int)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cola()
+comment1.params=dato
+comment1.target=boolean\ encolar(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ decolar()
+comment3.params=
+comment3.target=boolean\ vacia()
+numComments=4

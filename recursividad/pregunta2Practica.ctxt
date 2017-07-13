@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numeros\ t
+comment0.target=void\ sumas(int[],\ int)
+comment1.params=arreglo\ comparador\ posicion\ recorrido
+comment1.target=java.lang.String\ sumas(int[],\ int,\ int,\ int)
+comment2.params=arreglo\ comparador\ posicion\ recorrido\ recorrido2
+comment2.target=java.lang.String\ sumas(int[],\ int,\ int,\ int,\ int)
+numComments=3

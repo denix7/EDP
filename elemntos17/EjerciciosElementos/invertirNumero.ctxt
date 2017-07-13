@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ invertirN(int)
+comment1.params=n\ dig
+comment1.target=int\ invertirN(int,\ int)
+comment2.params=n
+comment2.target=int\ contarDig(int)
+comment3.params=a\ b
+comment3.target=int\ elevarPotencia(int,\ int)
+numComments=4

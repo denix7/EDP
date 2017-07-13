@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Dreccion()
+comment1.params=nx\ ny\ nc
+comment1.target=void\ Direccion(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ cantMax()
+numComments=3

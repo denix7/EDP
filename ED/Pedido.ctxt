@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nombreCliente\ zona\ direccion
+comment0.target=Pedido(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getPesoTotal()
+comment2.params=otro
+comment2.target=int\ compareTo(Pedido)
+comment3.params=
+comment3.target=java.lang.String\ getZona()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

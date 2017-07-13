@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=N\ P\ pistas
+comment0.target=void\ grabarMusica(int,\ int,\ int[])
+comment1.params=capacidad\ arreglo\ posicion\ acumulado
+comment1.target=java.lang.String\ grabarMusica(int,\ int[],\ int,\ int)
+comment2.params=arreglo\ pos\ orden
+comment2.target=int[]\ ordenar(int[],\ int,\ int)
+comment3.params=arreglo\ posicion\ capacidad\ acumulado
+comment3.target=int\ sumar(int[],\ int,\ int,\ int)
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaSE()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=dato
+comment2.target=void\ add(java.lang.Object)
+comment3.params=pos
+comment3.target=java.lang.Object\ get(int)
+comment4.params=dato\ pos
+comment4.target=void\ set(java.lang.Object,\ int)
+comment5.params=pos
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=
+comment6.target=int\ longitud()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=ListaSE\ clone()
+comment9.params=
+comment9.target=int\ size()
+comment9.text=Metodo\ Recursivo\n\ \ \ \ public\ int\ longitud(){\n\ \ \ \ \ \ \ \ int\ l\ \=\ 0;\n\ \ \ \ \ \ \ \ if(\!vacia()){\n\ \ \ \ \ \ \ \ \ \ \ \ l\ \=\ longitud(ini);\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ l;\n\ \ \ \ }\n\ \ \ \ \n\ \ \ \ private\ int\ longitud(NodoSE<T>\ act){\n\ \ \ \ \ \ \ \ int\ l;\n\ \ \ \ \ \ \ \ if(act.vacio()){\ l\ \=\ 0;}\n\ \ \ \ \ \ \ \ else{\n\ \ \ \ \ \ \ \ \ \ \ \ l\ \=\ 1\ +\ longitud(act.getSuc());\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ l;\n}
+numComments=10

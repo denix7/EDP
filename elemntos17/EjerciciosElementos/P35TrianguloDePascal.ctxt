@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int[]\ nfilaPascal(int)
+comment1.params=ant\ act\ i
+comment1.target=void\ llenarActual(int[],\ int[],\ int)
+numComments=2

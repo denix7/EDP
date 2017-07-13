@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numeros
+comment0.target=void\ luckyNumbers(int[])
+comment1.params=arreglo\ i\ j\ alm
+comment1.target=int[]\ luckyNumb(int[],\ int,\ int,\ int[])
+comment2.params=arreglo\ pos
+comment2.target=java.lang.String\ imprimir(int[],\ int)
+numComments=3

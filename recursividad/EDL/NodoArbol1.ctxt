@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NodoArbol1()
+comment1.params=datosNodo
+comment1.target=NodoArbol1(java.lang.Object)
+comment2.params=valorInsertar
+comment2.target=void\ insertar(java.lang.Object)
+comment3.params=
+comment3.target=boolean\ vacio()
+numComments=4

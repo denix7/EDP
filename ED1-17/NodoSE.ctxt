@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=NodoSE(java.lang.Object)
+comment1.params=x\ pri
+comment1.target=NodoSE(java.lang.Object,\ int)
+comment2.params=
+comment2.target=java.lang.Object\ getDato()
+comment3.params=
+comment3.target=NodoSE\ getSiguiente()
+comment4.params=
+comment4.target=int\ getPrioridad()
+comment5.params=x
+comment5.target=void\ setDato(java.lang.Object)
+comment6.params=y
+comment6.target=void\ setSiguiente(NodoSE)
+comment7.params=Pri
+comment7.target=void\ setPrioridad(int)
+numComments=8

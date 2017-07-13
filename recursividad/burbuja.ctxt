@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ordenarArreglo
+comment0.target=int[]\ ordenar(int[])
+comment1.params=arreglo\ pos\ orden
+comment1.target=int[]\ ordenar(int[],\ int,\ int)
+numComments=2

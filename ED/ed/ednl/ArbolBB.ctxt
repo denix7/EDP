@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbolBB()
+comment1.params=dato
+comment1.target=ArbolBB(java.lang.Comparable)
+comment10.params=izq
+comment10.target=void\ setIzq(ArbolBB)
+comment2.params=dato
+comment2.target=boolean\ insertar(java.lang.Comparable)
+comment3.params=
+comment3.target=boolean\ esHoja()
+comment4.params=
+comment4.target=ed.edl.ListaSE\ podarHojas()
+comment5.params=hojas\ arbol
+comment5.target=void\ podarHojas(ed.edl.ListaSE,\ ArbolBB)
+comment6.params=
+comment6.target=boolean\ vacio()
+comment7.params=
+comment7.target=ArbolBB\ getDer()
+comment8.params=
+comment8.target=ArbolBB\ getIzq()
+comment9.params=der
+comment9.target=void\ setDer(ArbolBB)
+numComments=11

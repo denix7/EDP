@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=mensaje
+comment0.target=java.lang.String\ criptografo(java.lang.String)
+comment1.params=texto\ pos
+comment1.target=java.lang.String\ criptografo(java.lang.String,\ int)
+comment2.params=comparar
+comment2.target=java.lang.String\ esPar(char)
+comment3.params=comparar
+comment3.target=java.lang.String\ esImPar(char)
+numComments=4

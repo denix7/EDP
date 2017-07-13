@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ColasP()
+comment1.params=
+comment1.target=boolean\ empty()
+comment2.params=x
+comment2.target=void\ insertarInicio(java.lang.Object)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.lang.Object\ removeLast()
+comment5.params=
+comment5.target=java.lang.Object\ peekLast()
+comment6.params=
+comment6.target=void\ mostrarCola()
+comment7.params=x\ prioridad
+comment7.target=void\ insertarInicioConPrioridad(java.lang.Object,\ int)
+comment8.params=prioridadActual\ nuevaPrioridad\ dato
+comment8.target=void\ cambiarPrioridadPrioridad(int,\ int,\ java.lang.Object)
+numComments=9

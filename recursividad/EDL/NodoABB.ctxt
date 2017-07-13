@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=dato
+comment0.target=NodoABB(int)
+comment1.params=
+comment1.target=int\ getDato()
+comment2.params=
+comment2.target=NodoABB\ getIzq()
+comment3.params=
+comment3.target=NodoABB\ getDer()
+comment4.params=izq
+comment4.target=void\ setIzq(NodoABB)
+comment5.params=der
+comment5.target=void\ setDer(NodoABB)
+comment6.params=
+comment6.target=boolean\ esHoja()
+numComments=7

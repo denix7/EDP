@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=contrasena
+comment0.target=boolean\ esContrasenaSegura(java.lang.String)
+comment1.params=contrasena\ pos\ cont
+comment1.target=boolean\ esContrasenaSegura(java.lang.String,\ int,\ int)
+comment2.params=c
+comment2.target=boolean\ esNumero(char)
+comment3.params=c
+comment3.target=boolean\ esLetra(char)
+numComments=4

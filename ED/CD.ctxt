@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=arg
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ leer()
+comment2.params=t\ n\ ts
+comment2.target=java.lang.String\ getContenidoCinta(int,\ int,\ int[])
+comment3.params=
+comment3.target=void\ test()
+comment3.text=Metodo\ de\ \ que\ verifica\ si\ un\ elemento\ esta\ en\ la\ lista
+numComments=4

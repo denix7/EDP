@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaDECircular()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=x
+comment2.target=void\ insertarFinal(java.lang.Object)
+comment3.params=
+comment3.target=void\ mostrarLista()
+numComments=4

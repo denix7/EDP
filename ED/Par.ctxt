@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Par(char)
+comment1.params=
+comment1.target=void\ incr()
+comment2.params=
+comment2.target=char\ getC()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=otro
+comment4.target=int\ compareTo(Par)
+numComments=5

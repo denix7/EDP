@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=msgCifrado
+comment0.target=java.lang.String\ msgRestaurado(java.lang.String)
+comment1.params=pila
+comment1.target=java.lang.String\ vaciarPila(java.util.Stack)
+numComments=2

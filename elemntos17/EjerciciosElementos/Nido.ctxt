@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=char\ getTipo()
+comment1.params=
+comment1.target=boolean\ visitado()
+comment2.params=
+comment2.target=void\ visitar()
+comment3.params=
+comment3.target=int\ getHab()
+comment4.params=
+comment4.target=boolean\ esVacio()
+numComments=5
